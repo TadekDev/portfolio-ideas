@@ -4,7 +4,7 @@ layout: home
 # Hero section
 hero:
   name: Portfolio Ideas
-  text: Repository of portfolio Inspiration
+  text: Repository of portfolio Inspiration for Ref
   image:
     src: /header.png
     alt: Portfolio-ideas logo
